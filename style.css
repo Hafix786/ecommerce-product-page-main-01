@@ -231,7 +231,7 @@ nav{
 
 }
 
-@media (width > 600px){
+@media (width > 768px){
     .cart-container{
         right: 7rem;
         left: auto;
