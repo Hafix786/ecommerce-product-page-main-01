@@ -9,6 +9,9 @@ body{
 }
 main{
     max-width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 nav{
     padding: 1rem ;
@@ -228,7 +231,7 @@ nav{
 
 }
 
-@media (width > 425px){
+@media (width > 600px){
     .cart-container{
         right: 7rem;
         left: auto;
